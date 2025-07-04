@@ -39,7 +39,7 @@ Includes user authentication with JWT, CRUD operations on transactions, tax calc
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/django-expense-tracker.git
+   git clone https://github.com/Arbin17/-Django-Expense-Tracker-API.git
    cd django-expense-tracker
   
 2. **Install dependencies**
